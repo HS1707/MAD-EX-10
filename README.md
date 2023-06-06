@@ -31,8 +31,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by: HARINI G
-Registeration Number : 212221220017
+Developed by: Hariharan S
+Registeration Number : 212221220016
 */
 ```
 
